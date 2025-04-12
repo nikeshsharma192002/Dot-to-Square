@@ -1,4 +1,4 @@
-# 🎯 Dot-to-Square Drawing Webpage[https://dot-to-square.netlify.app/](https://dot-to-square.netlify.app/)
+# 🎯 Dot-to-Square Drawing Webpage [Live Demo](https://dot-to-square.netlify.app/)
 
 An interactive React-based drawing application where users can create dots on a canvas by clicking, and lines are drawn between them to form a square.
 
