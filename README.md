@@ -46,13 +46,13 @@ This app allows users to:
 
 ##  ✨Features
   
-  ✅ Dot placement on click.
-  ✅ Line drawing between dots.
-  ✅ Square formation with animation.
-  ✅ Reset button to clear drawing.
-  ✅ Responsive UI for mobile and desktop.
-  ✅ Message shown on square completion.
-  🚫 Error prevented by restricting clicks to the drawing area only.
+  - ✅ Dot placement on click.
+  - ✅ Line drawing between dots.
+  - ✅ Square formation with animation.
+  - ✅ Reset button to clear drawing.
+  - ✅ Responsive UI for mobile and desktop.
+  - ✅ Message shown on square completion.
+  - 🚫 Error prevented by restricting clicks to the drawing area only.
 
 ## 🧼Reset Functionality
   - A Reset button is shown once dots exist.
